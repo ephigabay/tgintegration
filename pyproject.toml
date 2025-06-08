@@ -27,7 +27,7 @@ classifiers = [
 
 [tool.poetry.dependencies]
 python = "==3.*,>=3.7"
-typing-extensions = "^3.7.4"
+typing-extensions = "^4.0.0"
 pyrogram = "^2.0.0"
 
 [tool.poetry.dev-dependencies]
